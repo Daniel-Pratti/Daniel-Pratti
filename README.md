@@ -2,8 +2,8 @@
 
 # Olá, eu sou Daniel Pratti 👋
 
-Sou estudante de Análise e Desenvolvimento de Dados, com interesse em backend e desenvolvimento de jogos.  
-Estou aprendendo programação com C e Python, desenvolvendo projetos simples para praticar e evoluir!
+Sou estudante de Análise e Desenvolvimento de Sistemas, com interesse em backend e desenvolvimento de jogos.  
+Estou aprendendo programação e desenvolvendo projetos simples para praticar e evoluir!
 
 ## 🚀 O que estou aprendendo
 - **C:** Fundamentos (printf, scanf, laços, switch, etc.), mini jogos e exercícios
